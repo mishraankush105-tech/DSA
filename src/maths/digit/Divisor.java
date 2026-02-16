@@ -8,5 +8,4 @@ public class Divisor {
         int n = 26;
         int sum = 0;
 
-
 }
